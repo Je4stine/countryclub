@@ -1,0 +1,32 @@
+.navbar{
+    background-color: #00FF00;
+    width: auto;
+    height: 6rem;
+    
+    
+    
+}
+.navitems{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: center;
+    
+       
+}
+.navitems li{
+    display: block;
+    width: auto;
+    text-decoration: none;
+    margin-top:40px;
+    
+    
+}
+.navitems li:hover{
+    background-color:#00FF00;
+    color: red;
+}
+
